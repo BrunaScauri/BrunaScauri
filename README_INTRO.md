@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BrunaScauri
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning front-end!
+- 💞️ I’m looking to collaborate on anything beginner-friendly <3 
+- 📫 How to reach me: email @ brunascauri@hotmail.com or comment on any of my repos!
