@@ -1,4 +1,3 @@
-<div>
 ![logo](https://i.ibb.co/987Pq33/logotrans.png)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,4 +14,3 @@
 </p>
 
 ![lofi](https://i.ibb.co/nMmNLgd/lofi-generator.png)
-</div>
