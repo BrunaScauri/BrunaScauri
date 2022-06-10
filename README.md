@@ -19,8 +19,8 @@
 <code><img height="80" src="https://i.ibb.co/CWcGfjg/figma.png" alt="figma logo"/></code>
 <code><img height="80" src="https://i.ibb.co/2tXsMNC/linux.png" alt="linux logo"/></code>
 <br>
-![BrunaScauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaScauri&show_icons=true&theme=graywhite)
-<br>
+<!-- ![BrunaScauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaScauri&show_icons=true&theme=graywhite) -->
+<!-- <br> -->
 <h1>Connect with me!</h1>
 <a href="https://linkedin.com/in/brunascauri" target="_blank"><img src="https://i.ibb.co/LSQr26f/linkedin.png" alt="linkedin icon" height="80" /></a>
 <a href="https://instagram.com/brunascauri" target="_blank"><img src="https://i.ibb.co/hgCyXp2/insta.png" alt="instagram icon" height="80" /></a>
