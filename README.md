@@ -1,4 +1,7 @@
-<img src="https://i.ibb.co/DVsHQzJ/logobru.png" alt="logo bru" width="1024">
+<div align="left">
+<img src="https://i.ibb.co/DVsHQzJ/logobru.png" alt="logo bru" style="width: 100%" />
+</div> 
+
 <h1>Languages and Tools</h1>
 <code><img height="80" src="https://i.ibb.co/t2L6mf5/git.png" alt="git logo"/></code>
 <code><img height="80" src="https://i.ibb.co/R2KBqrb/html.png" alt="html logo"/></code>
