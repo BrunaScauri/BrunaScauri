@@ -1,17 +1,32 @@
-![logo](https://i.ibb.co/987Pq33/logotrans.png)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- ![logo](https://i.ibb.co/987Pq33/logotrans.png) -->
+<img src="https://i.ibb.co/DVsHQzJ/logobru.png" alt="logo bru" width="1024">
+<h1>Languages and Tools:</h1>
+<code><img height="80" src="https://i.ibb.co/t2L6mf5/git.png" alt="git logo"></code>
+<code><img height="80" src="https://i.ibb.co/R2KBqrb/html.png" alt="html logo"></code>
+<code><img height="80" src="https://i.ibb.co/4JVBvc9/css.png" alt="css logo"></code>
+<code><img height="80" src="https://i.ibb.co/CvNphpp/ja.png" alt="javascript logo"></code>
+<br>
+<code><img height="80" src="https://i.ibb.co/HrhKn3j/react.png" alt="react logo"></code>
+<code><img height="80" src="https://i.ibb.co/r2M8MzN/boots.png" alt="bootstrap logo"></code>
+<code><img height="80" src="https://i.ibb.co/ygnxtHw/rtl.png" alt="rtl logo"></code>
+<code><img height="80" src="https://i.ibb.co/7CpQ8Mh/jest.png" alt="jest logo"></code>
+<br>
+<code><img height="80" src="https://i.ibb.co/nQy11Xc/mysql.png" alt="mysql logo"></code>
+<code><img height="80" src="https://i.ibb.co/1mLyLb0/node.png" alt="nodejs logo"></code>
+<code><img height="80" src="https://i.ibb.co/KDSqhnM/insomnia.png" alt="insomnia logo"></code>
+<code><img height="80" src="https://i.ibb.co/rtPGVbG/postman.png" alt="postman logo"></code>
+<br>
+<code><img height="80" src="https://i.ibb.co/gyYgF9S/xd.png" alt="adobe xd logo"></code>
+<code><img height="80" src="https://i.ibb.co/CWcGfjg/figma.png" alt="figma logo"></code>
+<code><img height="80" src="https://i.ibb.co/2tXsMNC/linux.png" alt="linux logo"></code>
 
 ![BrunaScauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaScauri&show_icons=true&theme=graywhite)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunascauri&show_icons=true&locale=en&layout=compact" alt="brunascauri" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunascauri&show_icons=true&locale=en&layout=compact" alt="my github statistics"/>
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brunascauri" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunascauri" height="30" width="40" /></a>
-<a href="https://instagram.com/brunascauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunascauri" height="30" width="40" /></a>
+<h1>Connect with me:</h1>
+<a href="https://linkedin.com/in/brunascauri" target="_blank"><img src="https://i.ibb.co/LSQr26f/linkedin.png" alt="linkedin icon" height="80" /></a>
+<a href="https://instagram.com/brunascauri" target="_blank"><img src="https://i.ibb.co/hgCyXp2/insta.png" alt="instagram icon" height="80" /></a>
+<br>
 </p>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-![lofi](https://i.ibb.co/nMmNLgd/lofi-generator.png)
+<img src="https://i.ibb.co/nMmNLgd/lofi-generator.png" alt="image of me as lofi girl" width="1024">
