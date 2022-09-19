@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/DVsHQzJ/logobru.png" alt="logo bru" style="width: 100%" />
 </div> 
 
-<h1>Languages and Tools</h1>
+<h1>Languages and Tools:</h1>
 <code><img height="80" src="https://i.ibb.co/t2L6mf5/git.png" alt="git logo"/></code>
 <code><img height="80" src="https://i.ibb.co/R2KBqrb/html.png" alt="html logo"/></code>
 <code><img height="80" src="https://i.ibb.co/4JVBvc9/css.png" alt="css logo"/></code>
@@ -18,9 +18,24 @@
 <code><img height="80" src="https://i.ibb.co/KDSqhnM/insomnia.png" alt="insomnia logo"/></code>
 <code><img height="80" src="https://i.ibb.co/rtPGVbG/postman.png" alt="postman logo"/></code>
 <br>
+<code><img height="80" src="https://i.ibb.co/ZdrvbSv/heroku.png" alt="heroku logo"/></code>
+<code><img height="80" src="https://i.ibb.co/9wg64kN/express.png" alt="express logo"/></code>
+<code><img height="80" src="https://i.ibb.co/TBLwtvG/docker.png" alt="docker logo"/></code>
+<code><img height="80" src="https://i.ibb.co/VTbW87R/sinon.png" alt="sinon logo"/></code>
+<br>
+<code><img height="80" src="https://i.ibb.co/0MJM0vF/cypress.png" alt="cypress logo"/></code>
+<code><img height="80" src="https://i.ibb.co/T1YSksd/mocha.png" alt="mocha logo"/></code>
+<code><img height="80" src="https://i.ibb.co/Fm03J6w/chai.png" alt="chai logo"/></code>
+<code><img height="80" src="https://i.ibb.co/L5kqmtW/bash.png" alt="bash logo"/></code>
+<br>
 <code><img height="80" src="https://i.ibb.co/gyYgF9S/xd.png" alt="adobe xd logo"/></code>
 <code><img height="80" src="https://i.ibb.co/CWcGfjg/figma.png" alt="figma logo"/></code>
 <code><img height="80" src="https://i.ibb.co/2tXsMNC/linux.png" alt="linux logo"/></code>
+<br>
+<h1>Currently learning:</h1>
+<code><img height="80" src="https://i.ibb.co/L6gRh47/python.png" alt="python logo"/></code>
+<code><img height="80" src="https://i.ibb.co/N7NbvdV/selenium.png" alt="selenium logo"/></code>
+<code><img height="80" src="https://i.ibb.co/JHYXbKw/vim.png" alt="vim logo"/></code>
 <br>
 <br>
 
@@ -35,3 +50,6 @@
 
 ![](https://komarev.com/ghpvc/?username=BrunaScauri&color=green&style=flat-square)
 <img src="https://i.ibb.co/nMmNLgd/lofi-generator.png" alt="image of me as lofi girl" width="1024">
+
+<p>I vectorized all of the icons! You can find them at: https://ibb.co/album/VVDq0S .
+If you plan on using them, please link me! :nerd_face:</p>
