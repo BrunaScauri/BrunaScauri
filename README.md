@@ -36,5 +36,5 @@
 ![](https://komarev.com/ghpvc/?username=BrunaScauri&color=green&style=flat-square)
 <img src="https://i.ibb.co/nMmNLgd/lofi-generator.png" alt="image of me as lofi girl" width="1024">
 
-<p>I vectorized all of the icons! You can find them at: https://ibb.co/album/VVDq0S .
+<p>I vectorized all the icons! You can find them at: https://ibb.co/album/VVDq0S .
 If you plan on using them, please link me! :nerd_face:</p>
