@@ -4,33 +4,18 @@
 
 <h1>Languages and Tools:</h1>
 <code><img height="80" src="https://i.ibb.co/t2L6mf5/git.png" alt="git logo"/></code>
-<code><img height="80" src="https://i.ibb.co/R2KBqrb/html.png" alt="html logo"/></code>
-<code><img height="80" src="https://i.ibb.co/4JVBvc9/css.png" alt="css logo"/></code>
 <code><img height="80" src="https://i.ibb.co/CvNphpp/ja.png" alt="javascript logo"/></code>
-<br>
+<code><img height="80" src="https://i.ibb.co/1mLyLb0/node.png" alt="nodejs logo"/></code>
 <code><img height="80" src="https://i.ibb.co/HrhKn3j/react.png" alt="react logo"/></code>
-<code><img height="80" src="https://i.ibb.co/r2M8MzN/boots.png" alt="bootstrap logo"/></code>
+<code><img height="80" src="https://i.ibb.co/nQy11Xc/mysql.png" alt="mysql logo"/></code>
+<code><img height="80" src="https://i.ibb.co/TBLwtvG/docker.png" alt="docker logo"/></code>
+<br>
 <code><img height="80" src="https://i.ibb.co/ygnxtHw/rtl.png" alt="rtl logo"/></code>
 <code><img height="80" src="https://i.ibb.co/7CpQ8Mh/jest.png" alt="jest logo"/></code>
-<br>
-<code><img height="80" src="https://i.ibb.co/nQy11Xc/mysql.png" alt="mysql logo"/></code>
-<code><img height="80" src="https://i.ibb.co/1mLyLb0/node.png" alt="nodejs logo"/></code>
-<code><img height="80" src="https://i.ibb.co/KDSqhnM/insomnia.png" alt="insomnia logo"/></code>
-<code><img height="80" src="https://i.ibb.co/rtPGVbG/postman.png" alt="postman logo"/></code>
-<br>
-<code><img height="80" src="https://i.ibb.co/ZdrvbSv/heroku.png" alt="heroku logo"/></code>
-<code><img height="80" src="https://i.ibb.co/9wg64kN/express.png" alt="express logo"/></code>
-<code><img height="80" src="https://i.ibb.co/TBLwtvG/docker.png" alt="docker logo"/></code>
 <code><img height="80" src="https://i.ibb.co/VTbW87R/sinon.png" alt="sinon logo"/></code>
-<br>
 <code><img height="80" src="https://i.ibb.co/0MJM0vF/cypress.png" alt="cypress logo"/></code>
 <code><img height="80" src="https://i.ibb.co/T1YSksd/mocha.png" alt="mocha logo"/></code>
 <code><img height="80" src="https://i.ibb.co/Fm03J6w/chai.png" alt="chai logo"/></code>
-<code><img height="80" src="https://i.ibb.co/L5kqmtW/bash.png" alt="bash logo"/></code>
-<br>
-<code><img height="80" src="https://i.ibb.co/gyYgF9S/xd.png" alt="adobe xd logo"/></code>
-<code><img height="80" src="https://i.ibb.co/CWcGfjg/figma.png" alt="figma logo"/></code>
-<code><img height="80" src="https://i.ibb.co/2tXsMNC/linux.png" alt="linux logo"/></code>
 <br>
 <h1>Currently learning:</h1>
 <code><img height="80" src="https://i.ibb.co/L6gRh47/python.png" alt="python logo"/></code>
