@@ -9,6 +9,7 @@
 <code><img height="80" src="https://i.ibb.co/HrhKn3j/react.png" alt="react logo"/></code>
 <code><img height="80" src="https://i.ibb.co/nQy11Xc/mysql.png" alt="mysql logo"/></code>
 <code><img height="80" src="https://i.ibb.co/TBLwtvG/docker.png" alt="docker logo"/></code>
+<code><img height="80" src="https://i.ibb.co/L6gRh47/python.png" alt="python logo"/></code>
 <br>
 <code><img height="80" src="https://i.ibb.co/ygnxtHw/rtl.png" alt="rtl logo"/></code>
 <code><img height="80" src="https://i.ibb.co/7CpQ8Mh/jest.png" alt="jest logo"/></code>
@@ -16,12 +17,7 @@
 <code><img height="80" src="https://i.ibb.co/0MJM0vF/cypress.png" alt="cypress logo"/></code>
 <code><img height="80" src="https://i.ibb.co/T1YSksd/mocha.png" alt="mocha logo"/></code>
 <code><img height="80" src="https://i.ibb.co/Fm03J6w/chai.png" alt="chai logo"/></code>
-<br>
-<h1>Currently learning:</h1>
-<code><img height="80" src="https://i.ibb.co/L6gRh47/python.png" alt="python logo"/></code>
 <code><img height="80" src="https://i.ibb.co/N7NbvdV/selenium.png" alt="selenium logo"/></code>
-<code><img height="80" src="https://i.ibb.co/JHYXbKw/vim.png" alt="vim logo"/></code>
-<br>
 <br>
 
 ![BrunaScauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaScauri&show_icons=true&theme=graywhite)
