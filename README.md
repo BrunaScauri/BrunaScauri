@@ -20,6 +20,12 @@
 <code><img height="80" src="https://i.ibb.co/N7NbvdV/selenium.png" alt="selenium logo"/></code>
 <br>
 
+<h1>Currently learning:</h1>
+<code><img height="80" src="https://user-images.githubusercontent.com/86174031/210846686-59c0f016-6fee-4e88-9645-242a1a42ad48.png" alt="java logo"/></code>
+<code><img height="80" src="https://user-images.githubusercontent.com/86174031/210846771-85850902-8ec9-46ba-a92e-8bb944866fd4.png" alt="java logo"/></code>
+
+<br><br>
+
 ![BrunaScauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunaScauri&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
