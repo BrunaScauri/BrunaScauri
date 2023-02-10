@@ -21,8 +21,8 @@
 <br>
 
 <h1>Currently learning:</h1>
-<code><img height="80" src="https://user-images.githubusercontent.com/86174031/210846686-59c0f016-6fee-4e88-9645-242a1a42ad48.png" alt="java logo"/></code>
-<code><img height="80" src="https://user-images.githubusercontent.com/86174031/210846771-85850902-8ec9-46ba-a92e-8bb944866fd4.png" alt="java logo"/></code>
+<code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vue logo"/></code>
+<code><img height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodUIulW_GIJcq252rveAoHL0K3TAAWNsgBDmLju7FNdTwDriSw-n85ZtBZCd8LIhB9C8&usqp=CAU" alt="nuxt logo"/></code>
 
 <br><br>
 
