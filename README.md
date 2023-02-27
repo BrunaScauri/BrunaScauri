@@ -18,11 +18,6 @@
 <code><img height="80" src="https://i.ibb.co/T1YSksd/mocha.png" alt="mocha logo"/></code>
 <code><img height="80" src="https://i.ibb.co/Fm03J6w/chai.png" alt="chai logo"/></code>
 <code><img height="80" src="https://i.ibb.co/N7NbvdV/selenium.png" alt="selenium logo"/></code>
-<br>
-
-<h1>Currently learning:</h1>
-<code><img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vue logo"/></code>
-<code><img height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodUIulW_GIJcq252rveAoHL0K3TAAWNsgBDmLju7FNdTwDriSw-n85ZtBZCd8LIhB9C8&usqp=CAU" alt="nuxt logo"/></code>
 
 <br><br>
 
