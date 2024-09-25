@@ -12,5 +12,3 @@
 <br>
 <h1> </h1>
 
-![](https://komarev.com/ghpvc/?username=BrunaScauri&color=green&style=flat-square)
-<img src="https://i.ibb.co/nMmNLgd/lofi-generator.png" alt="image of me as lofi girl" width="1024">
