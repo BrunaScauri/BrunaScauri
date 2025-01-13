@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunascauri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <h1>Connect with me!</h1>
 <a href="https://linkedin.com/in/brunascauri" target="_blank"><img src="https://i.ibb.co/LSQr26f/linkedin.png" alt="linkedin icon" height="80" /></a>
