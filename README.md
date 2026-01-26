@@ -60,5 +60,13 @@
 <a href="https://instagram.com/brunascauri" target="_blank"><img src="https://i.ibb.co/hgCyXp2/insta.png" alt="instagram icon" height="80" /></a>
 </div>
 <br>
-<h1> </h1>
-
+<h3>Latest projects:</h3>
+<div align="center">
+<p>Flutter/Firebase:
+<a href="https://github.com/BrunaScauri/flutter-instagram-clone" target="_blank">Instagram Clone App</a>
+</p>
+<p>Flutter:
+<a href="https://github.com/BrunaScauri/learning_clean_architecture" target="_blank">Introduction to Clean Architecture: To-do App</a>
+</p>
+</div>
+<br>
